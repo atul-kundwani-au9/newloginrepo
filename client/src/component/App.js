@@ -6,7 +6,6 @@ import './App.css';
 import PrivateScreen from './screen/PrivateScreen';
 import LoginScreen from './screen/LoginScreen';
 import RegisterScreen from './screen/RegisterScreen';
-
 import PrivateRoute from './routing/PrivateRoute';
 
 const App = () => {
